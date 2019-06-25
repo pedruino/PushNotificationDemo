@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Push Notification Demo</string>
+    <string name="msg_fmt_subscribed">Subscribed on topic %s</string>
+    <string name="msg_subscribe_failed">Subscribe failed</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_message">Message</string>
+    <string name="hint_token">Token</string>
+    <string name="send">Send</string>
+    <string name="my_token">My Token</string>
+    <string name="share_my_token">Share</string>
+    <string name="share_with">Share with</string>
+    <string name="msg_message_not_sent">An error has occurred on sending message, please try again. ;)</string>
+    <string name="msg_message_successful">Message sent successfully</string>
+    <string name="msg_message_send_failure">Message send failure</string>
+</resources>
